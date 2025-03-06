@@ -69,8 +69,11 @@ This project is **open-source** and free to use.
 
 ---
 **Want to contribute?** Ping me & let's build Skillshare together! 🚀🔥
+
 contact me :- 
+
 Linkedin :- https://www.linkedin.com/in/erhassankazi/ 
+
 Whatsapp Community to connect with like minded peoples :- 
 1) Skillshare :- https://chat.whatsapp.com/BZXhPVkEqbBDbYAFBZkKSJ
 2) Leads :- https://chat.whatsapp.com/KhqmxvYH9pz0wAeh0F1apK
