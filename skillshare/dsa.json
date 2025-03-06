@@ -1,0 +1,2244 @@
+[
+    {
+      "videoId": "WQoB2z67hvY",
+      "title": "Lecture 1: Intro to Programming & Flowcharts",
+      "mcqs": [
+        "What is programming ?",
+        "JavaScript me hoisting ka matlab kya hota hai?"
+      ],
+      "projects": [
+        "Simple CLI Calculator",
+        "Todo List API (JSON File-Based)"
+      ],
+      "tasks": [
+        "Hoisting ka example likho",
+        "Higher-order function likho jo ek function ko as argument accept kare."
+      ]
+    },
+    {
+      "videoId": "t6zLJOCVqD0",
+      "title": "Lecture 2: Write Your First Program in C++",
+      "mcqs": [
+        "What does CSS stand for?",
+        "Which property is used to change text color in CSS?"
+      ],
+      "projects": [
+        "Design a landing page using only HTML & CSS.",
+        "Create a responsive navigation bar using CSS."
+      ],
+      "tasks": [
+        "Style an HTML form using CSS.",
+        "Apply flexbox to align div elements properly."
+      ]
+    },
+    {
+      "videoId": "WR31ByTzAVQ",
+      "title": "JavaScript Crash Course: Master the Basics in One Video! Ignite Your Front-End Mastery Series!",
+      "mcqs": [
+        "What is the correct syntax for a function in JavaScript?",
+        "Which keyword is used to declare a variable in JavaScript?"
+      ],
+      "projects": [
+        "Build a simple calculator using JavaScript.",
+        "Create a to-do list app with local storage."
+      ],
+      "tasks": [
+        "Write a function that adds two numbers and returns the sum.",
+        "Create an event listener for a button click."
+      ]
+    },
+    {
+      "videoId": "dr-pLeJBr38",
+      "title": "Create a 3D Animated Website Using HTML, CSS & JS | Scrolling Animations with Canvas",
+      "mcqs": [
+        "Which JavaScript library is commonly used for animations?",
+        "What is the purpose of the 'canvas' element in HTML?"
+      ],
+      "projects": [
+        "Build a 3D scrolling website using GSAP.",
+        "Create an interactive web page with animations."
+      ],
+      "tasks": [
+        "Add a simple animation to a button hover effect.",
+        "Use JavaScript to animate an image on scroll."
+      ]
+    },
+    {
+      "videoId": "yjdQHb2elqI",
+      "title": "JavaScript DOM Manipulation: How to DOMinate the DOM with JavaScript",
+      "mcqs": [
+        "What does 'document.getElementById' return?",
+        "Which method is used to add an event listener to an element?"
+      ],
+      "projects": [
+        "Create an image slider using JavaScript DOM.",
+        "Build an interactive FAQ section using JS."
+      ],
+      "tasks": [
+        "Change the text of an HTML element using JavaScript.",
+        "Add a new list item dynamically using JS."
+      ]
+    },
+    {
+      "videoId": "bWrsk0QizEk",
+      "title": "🚀 Learn React JS in 90 Minutes! Complete Crash Course for Beginners 👨‍💻",
+      "mcqs": [
+        "What is the correct syntax to create a React component?",
+        "Which hook is used to handle state in functional components?"
+      ],
+      "projects": [
+        "Build a weather app using React.",
+        "Create a simple expense tracker in React."
+      ],
+      "tasks": [
+        "Set up a new React project using Vite or Create React App.",
+        "Build a React component that displays user details."
+      ]
+    },
+    {
+      "videoId": "0fwrMYPcGQ0",
+      "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+      "mcqs": [
+        "What is Framer Motion used for in React?",
+        "Which method is used to pass data between React components?"
+      ],
+      "projects": [
+        "Build an animated landing page using Framer Motion.",
+        "Create a documentation site using React."
+      ],
+      "tasks": [
+        "Animate a button click using Framer Motion.",
+        "Create a React component with props."
+      ]
+    },
+    {
+      "videoId": "8nNqk2NPbRA",
+      "title": "[ GAMECHANGER 🚀 ] REACT JS BECOMES 100 TIMES EASY IF YOU FOLLOW THIS.",
+      "mcqs": [
+        "What is the use of React Router?",
+        "How do you fetch data in React?"
+      ],
+      "projects": [
+        "Create a movie search app using React & API.",
+        "Build a task management system with React."
+      ],
+      "tasks": [
+        "Set up React Router in a project.",
+        "Use Fetch API to retrieve data in React."
+      ]
+    },
+    {
+        "videoId": "sNrLlmOIn-c",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "oVa8DfUDKTw",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "QovOdd80A4s",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "YJeoQBevNVo",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "zD2Jg3alZV8",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "6z2HK4o8qcU",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "YTTdLgyqOLY",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "UdO2NeHB46c",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "zOhUavxlzw4",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "7kIVfVY6Axk",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "WgMPrLX-zsA",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "MPvr-LmaZmA",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "Z7_nMTHROZo",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "Wdjr6uoZ0e0",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "1CdolnvxLs0",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "KdePjukNs98",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "YHwEIfrXZgE",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "rlpw7oi-bpE",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "P0UsAxtXq2Y",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "MMO2c57XHzM",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "LlqgWQgm58g",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "0TEvaAiqo8Y",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "_-2u4EPHD88",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "zg8Y1oE4qYQ",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "UntSI7G5h20",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "WyY2Af3k1xI",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "cdHEpbBVjRM",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "sNaHN4tZmRk",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "V0IgCltYgg4",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "tWnHbSHwNmA",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "va3NEycUxsg",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "GqtyVD-x_jY",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "BYCeh76OASc",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "i_5pvt7ag7E",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "b3GccK5_KSQ",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "q8gdBn9RPeI",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "vqS1nVQdCJM",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "fi2vh0nQLi0",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "VxOFflTXlXo",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "7pgs-wT5d4c",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "ogmBt6f9hw8",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "aD7mBVnKFEU",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "HiRlTPf9aCg",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "83mPr0i56Gg",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "rM5EEA_rbNY",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "_6COl6V6mng",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "BmZnJehDzyU",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "lJLcqDsmYfg",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "9u2BJfmWNEg",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "lrSXKLmnMV8",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "OpwYmEBcPh0",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "W7uB9-TKfTg",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "_gJ3to4RyeQ",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "5NiXlPrLslg",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "nHMQ33LZ6oA",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "s1d8UGDCCN8",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "QG0hE0R_ng4",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "ffE1xj51EBQ",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "XLdpy0_6MR4",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "2BdY9fixMrM",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "UeRUKRJvPa4",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "pDURIj98e0I",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "IGHyX15fLI8",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "18w8VduomfI",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "fqx8z3VepMA",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "NKJnHewiGdc",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "_9F2VgZcvdw",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "eccAKrmffh8",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "RrxpTWqj97A",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "7mUKGHznpfg",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "Y6dOuGjwsxU",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "VTr3Nh7BadI",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "SK2S5lQegVg",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "wjqSZy4pMT4",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "9wEwqNdOAVQ",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "8lWxaRviJBA",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "EaK6aslcC5g",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "b5kij1Akf9I",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "aJa3U-hydXc",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "1cSzxlhxOw8",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "Tl5qbEmEQyY",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "T_boOrr0rvk",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "6XmzL04mlgQ",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "X2_tYUuthH8",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "abIEXKFpLNE",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "P_bfy0LOU5g",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "dVUR3Rm6biE",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "rnYBi9N_vw4",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "KxLtIrCyXwE",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "CiDPT1xMKI0",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "fqkqx6OBRDE",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "ndfjV_yHpgQ",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "ijpVpsmpJtQ",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "PGsgv6nXhLw",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "S31W3kohFDk",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "A3FHNCAkhxE",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "Fe2GeXEzWM0",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "MFAAZW2znv8",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "NW-BLDQHFXk",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "5eFh5CC-8KY",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "xdPv2SZJLVI",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "Wct0mN2SCRQ",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "aJTCcyPrPOA",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "oZ_xAIGCXw4",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "U5f__4we_Jc",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "MMr19RE7KYY",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "Eo4G_LPCgX8",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "dvTTtzamEEo",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "_iGlRDLPLxM",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "MYHajVcnXSA",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "Ntzuz7XsdCI",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "QZ9edJ0JCPw",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "XY297u8qRDI",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "UGY7FMHt-M8",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "eT9Qz_vqHo",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "YaMcX7sem70",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "IOOFHFXenQU",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "ox7fOk3HjlA",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "x--bMzT1Xhk",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "LDiD9fr28tc",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "BSRTUtvJSIk",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "dlKGCNVel6A",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "tuhjovVtDII",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "NW7XRzg3smo",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "tuhjovVtDII",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "KFqhgQeQAXc",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "y1b8pObvndA",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "U095bJJtW3w",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "8HEjwf28LyE",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "IPT6emqnxg8",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "OgovJ9CB0hI",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      },
+      {
+        "videoId": "HZOUwKCKF5o",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion used for in React?",
+          "Which method is used to pass data between React components?"
+        ],
+        "projects": [
+          "Build an animated landing page using Framer Motion.",
+          "Create a documentation site using React."
+        ],
+        "tasks": [
+          "Animate a button click using Framer Motion.",
+          "Create a React component with props."
+        ]
+      }
+
+  ]
+  

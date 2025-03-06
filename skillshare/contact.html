@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us - SkillShare</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            background-color: #121212;
+            color: white;
+        }
+        /* Navbar */
+        .navbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: #1e1e1e;
+            padding: 15px 30px;
+            border-bottom: 2px solid #4ade80;
+            position: sticky;
+            top: 0;
+            width: 100%;
+            z-index: 1000;
+        }
+        .navbar h2 {
+            color: #facc15;
+            margin: 0;
+        }
+        .nav-links {
+            list-style: none;
+            display: flex;
+            gap: 20px;
+        }
+        .nav-links li {
+            display: inline;
+        }
+        .nav-links a {
+            color: #ffffff;
+            text-decoration: none;
+            font-size: 1rem;
+            padding: 8px 15px;
+            border-radius: 5px;
+            transition: background 0.3s;
+        }
+        .nav-links a:hover {
+            background: #4ade80;
+            color: black;
+        }
+        
+        /* Contact Section */
+        .contact {
+            padding: 60px 20px;
+            text-align: center;
+        }
+        .contact h1 {
+            font-size: 2.5rem;
+            color: #4ade80;
+        }
+        .contact p {
+            font-size: 1.2rem;
+            color: #ddd;
+        }
+        .contact-links {
+            margin-top: 20px;
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+        }
+        .contact-links a {
+            background: #4ade80;
+            color: black;
+            padding: 15px 25px;
+            font-size: 1.2rem;
+            border-radius: 5px;
+            text-decoration: none;
+            font-weight: bold;
+            transition: 0.3s;
+        }
+        .contact-links a:hover {
+            background: #3cb371;
+        }
+
+
+        
+    </style>
+</head>
+<body>
+    <!-- Navbar -->
+    <div class="navbar">
+        <h2>SkillShare 🚀</h2>
+        <ul class="nav-links">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="course.html">Courses</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </div>
+
+    <!-- Contact Section -->
+    <div class="contact" id="contact">
+        <h1> Contact Us</h1>
+        <p>Join Our community to connect with like minded peoples and learn from the best mentors </p>
+        <div class="contact-links">
+            <a href="https://discord.gg/5uge2qcGmq" target="_blank">Join Discord</a>
+            <a href="https://chat.whatsapp.com/GA4HPqOObSr7g7yfDOKEGF" target="_blank">Chat on WhatsApp</a>
+        </div>
+    </div>
+</body>
+</html>

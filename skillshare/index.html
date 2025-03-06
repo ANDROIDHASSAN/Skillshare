@@ -1,0 +1,530 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SkillShare - Learn & Grow</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            background-color: #121212;
+            color: white;
+        }
+        /* Navbar */
+        .navbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: #1e1e1e;
+            padding: 15px 30px;
+            border-bottom: 2px solid #4ade80;
+            position: sticky;
+            top: 0;
+            width: 100%;
+            z-index: 1000;
+        }
+        .navbar h2 {
+            color: #facc15;
+            margin: 0;
+        }
+        .nav-links {
+            list-style: none;
+            display: flex;
+            gap: 20px;
+        }
+        .nav-links li {
+            display: inline;
+        }
+        .nav-links a {
+            color: #ffffff;
+            text-decoration: none;
+            font-size: 1rem;
+            padding: 8px 15px;
+            border-radius: 5px;
+            transition: background 0.3s;
+        }
+        .nav-links a:hover {
+            background: #4ade80;
+            color: black;
+        }
+        /* Hero Section */
+        .hero {
+            padding: 60px 20px;
+            background: linear-gradient(135deg, #4ade80, #1e1e1e);
+            border-bottom-left-radius: 50% 20px;
+            border-bottom-right-radius: 50% 20px;
+        }
+        .hero h1 {
+            font-size: 2.5rem;
+        }
+        .hero p {
+            font-size: 1.2rem;
+            color: #ddd;
+        }
+        /* Courses */
+        .courses {
+            padding: 30px;
+        }
+        .course {
+            border: 1px solid #4ade80;
+            padding: 20px;
+            margin: 15px;
+            display: inline-block;
+            cursor: pointer;
+            border-radius: 10px;
+            transition: 0.3s;
+            background-color: #1e1e1e;
+        }
+        .course:hover {
+            background-color: #4ade80;
+            color: black;
+        }
+        /* About Us - Improved */
+        .about {
+            padding: 60px 20px;
+            background: linear-gradient(135deg, #1e1e1e, #2a2a2a);
+            text-align: center;
+            border-radius: 10px;
+            margin: 40px auto;
+            max-width: 80%;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+        }
+        .about h2 {
+            font-size: 2.2rem;
+            color: #facc15;
+            margin-bottom: 15px;
+        }
+        .about p {
+            font-size: 1.2rem;
+            color: #ddd;
+            max-width: 70%;
+            margin: auto;
+            line-height: 1.6;
+        }
+        .about .about-content {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 20px;
+            margin-top: 20px;
+            flex-wrap: wrap;
+        }
+        .about .box {
+            background: #1e1e1e;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+            transition: 0.3s;
+            width: 250px;
+            text-align: center;
+            border: 1px solid #4ade80;
+        }
+        .about .box:hover {
+            background: #4ade80;
+            color: black;
+        }
+        .about .box i {
+            font-size: 2rem;
+            color: #facc15;
+        }
+        .about .box h3 {
+            margin: 10px 0;
+            font-size: 1.5rem;
+        }
+        .about .box p {
+            font-size: 1rem;
+            color: #ccc;
+        }
+        .about .box p {
+            font-size: 1rem;
+            color: #ccc;
+        }
+        /* Call to Action */
+        .cta {
+            padding: 20px;
+        }
+        .cta button {
+            background-color: #facc15;
+            color: black;
+            padding: 15px 25px;
+            font-size: 1.2rem;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+        .cta button:hover {
+            background-color: #eab308;
+        }
+    
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    /* Floating Chat Button */
+    #chat-button {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      background-color: #eeff00;
+      color: rgb(0, 0, 0);
+      border: none;
+      border-radius: 50%;
+      width: 60px;
+      height: 60px;
+      font-size: 18px;
+      cursor: pointer;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+      /* box-shadow: #121212 2px 2px 2px; */
+      z-index: 1000;
+    }
+
+    #voiceAiButton  {
+      position: fixed;
+      bottom: 100px;
+      right: 20px;
+      background-color: #eeff00;
+      color: rgb(0, 0, 0);
+      border: none;
+      border-radius: 50%;
+      width: 60px;
+      height: 60px;
+      font-size: 18px;
+      cursor: pointer;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+      /* box-shadow: #121212 2px 2px 2px; */
+      z-index: 1000;
+    }
+
+
+    /* Chat Window */
+    #chat-window {
+      position: fixed;
+      bottom: 90px;
+      right: 20px;
+      width: 300px;
+      height: 400px;
+      background-color: white;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+      display: none;
+      flex-direction: column;
+      z-index: 1000;
+    }
+
+    /* Chat Header */
+    #chat-header {
+      background-color: #007bff;
+      color: white;
+      padding: 10px;
+      border-top-left-radius: 10px;
+      border-top-right-radius: 10px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    #chat-header button {
+      background: none;
+      border: none;
+      color: white;
+      font-size: 16px;
+      cursor: pointer;
+    }
+
+    /* Chat Area */
+    #chat-area {
+      flex: 1;
+      padding: 10px;
+      overflow-y: auto;
+      border-bottom: 1px solid #ccc;
+    }
+
+    .message {
+      margin-bottom: 10px;
+      padding: 8px;
+      border-radius: 5px;
+      max-width: 80%;
+    }
+
+    .message.user {
+      background-color: #007bff;
+      color: white;
+      margin-left: auto;
+      text-align: right;
+    }
+
+    .message.bot {
+      background-color: #f1f1f1;
+      color: black;
+      margin-right: auto;
+      text-align: left;
+    }
+
+    .typing-indicator {
+      display: inline-block;
+      padding: 8px;
+      background-color: #f1f1f1;
+      border-radius: 5px;
+      color: #555;
+      font-style: italic;
+    }
+
+    .loading {
+      display: inline-block;
+      padding: 8px;
+      background-color: #f1f1f1;
+      border-radius: 5px;
+      color: #555;
+      font-style: italic;
+    }
+
+    /* Input Area */
+    #input-area {
+      display: flex;
+      padding: 10px;
+    }
+
+    #input-area input {
+      flex: 1;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      margin-right: 10px;
+    }
+
+    #input-area button {
+      background-color: #007bff;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      padding: 8px 12px;
+      cursor: pointer;
+    }
+
+    #input-area button:hover {
+      background-color: #0056b3;
+    }
+ 
+
+        
+
+    </style>
+</head>
+<body>
+    <!-- Navbar -->
+    <div class="navbar">
+        <h2>SkillShare 🚀</h2>
+        <ul class="nav-links">
+            <li><a href="#">Home</a></li>
+            <li><a href="course1.html">Courses</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </div>
+
+    <!-- Hero Section -->
+    <div class="hero">
+        <h1>Learn. Build. Succeed.</h1>
+        <p>Join thousands of learners mastering skills in Python, Web Development, and more!</p>
+    </div>
+
+    <!-- Courses -->
+    <div class="courses" id="courses">
+        <h2>📚 Explore Our Courses</h2>
+        <div class="course" onclick="startCourse('dsa')">👩‍💻 Learn DSA</div>
+        <div class="course" onclick="startCourse('python')">🚀 Learn Python</div>
+        <div class="course" onclick="startCourse('webdev')">🌐 Learn Web Development</div>
+    </div>
+
+    <!-- About Us -->
+    <div class="about" id="about">
+        <h2>🚀 About SkillShare</h2>
+        <p>Empowering learners worldwide with hands-on projects, structured courses, and expert mentorship.</p>
+        
+        <div class="about-content">
+            <div class="box">
+                <i>📖</i>
+                <h3>Structured Learning</h3>
+                <p>Well-organized courses with step-by-step guidance.</p>
+            </div>
+            <div class="box">
+                <i>🔥</i>
+                <h3>Hands-on Projects</h3>
+                <p>Real-world projects to boost your skills.</p>
+            </div>
+            <div class="box">
+                <i>💡</i>
+                <h3>Expert Mentorship</h3>
+                <p>Get guidance from experienced instructors.</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Call to Action -->
+    <div class="cta">
+        <h2>Start Your Learning Journey Today!</h2>
+        <button onclick="window.location.href='course1.html'">Explore Courses</button>
+    </div>
+
+    <button id="chat-button">Chat</button>
+    <button id="voiceAiButton">Voice Ai</button>
+
+  <!-- Chat Window -->
+  <div id="chat-window">
+    <div id="chat-header">
+      <span>Chatbot</span>
+      <button id="minimize-button">_</button>
+    </div>
+    <div id="chat-area"></div>
+    <div id="input-area">
+      <input type="text" id="user-input" placeholder="Type a message...">
+      <button id="send-button">Send</button>
+    </div>
+  </div>
+
+    <script>
+        function startCourse(courseName) {
+            window.location.href = courseName + '.html';
+        }
+
+       
+    // DOM Elements
+    const chatButton = document.getElementById('chat-button');
+    const voiceAiButton = document.getElementById('voiceAiButton');
+    const chatWindow = document.getElementById('chat-window');
+    const minimizeButton = document.getElementById('minimize-button');
+    const chatArea = document.getElementById('chat-area');
+    const userInput = document.getElementById('user-input');
+    const sendButton = document.getElementById('send-button');
+
+    // API Key and Configuration
+    const OPENROUTER_API_KEY = "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";
+    const OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions";
+
+    // Toggle Chat Window
+    chatButton.addEventListener('click', () => {
+      chatWindow.style.display = chatWindow.style.display === 'flex' ? 'none' : 'flex';
+    });
+
+    // Minimize Chat Window
+    minimizeButton.addEventListener('click', () => {
+      chatWindow.style.display = 'none';
+    });
+
+    // Send Message
+    sendButton.addEventListener('click', () => {
+      sendMessage();
+    });
+
+    userInput.addEventListener('keypress', (e) => {
+      if (e.key === 'Enter') {
+        sendMessage();
+      }
+    });
+
+    // Show Typing Indicator
+    function showTypingIndicator() {
+      const typingElement = document.createElement('div');
+      typingElement.className = 'typing-indicator';
+      typingElement.textContent = "Bot is typing...";
+      chatArea.appendChild(typingElement);
+      chatArea.scrollTop = chatArea.scrollHeight;
+      return typingElement;
+    }
+
+    // Show Loading State
+    function showLoadingState() {
+      const loadingElement = document.createElement('div');
+      loadingElement.className = 'loading';
+      loadingElement.textContent = "Loading...";
+      chatArea.appendChild(loadingElement);
+      chatArea.scrollTop = chatArea.scrollHeight;
+      return loadingElement;
+    }
+
+    // Send Message Function
+    async function sendMessage() {
+      const message = userInput.value.trim();
+      if (message === "") return;
+
+      // Display User Message
+      const userMessageElement = document.createElement('div');
+      userMessageElement.className = 'message user';
+      userMessageElement.textContent = message;
+      chatArea.appendChild(userMessageElement);
+
+      // Clear Input
+      userInput.value = '';
+
+      // Scroll to Bottom
+      chatArea.scrollTop = chatArea.scrollHeight;
+
+      // Show Typing Indicator
+      const typingElement = showTypingIndicator();
+
+      // Send Message to OpenRouter API
+      try {
+        const response = await fetch(OPENROUTER_API_URL, {
+          method: "POST",
+          headers: {
+            "Authorization": `Bearer ${OPENROUTER_API_KEY}`,
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify({
+            model: "deepseek/deepseek-chat:free",
+            messages: [
+              {
+                role: "user",
+                content: message,
+              },
+            ],
+          }),
+        });
+
+        const data = await response.json();
+        const botResponse = data.choices[0].message.content;
+
+        // Remove Typing Indicator
+        chatArea.removeChild(typingElement);
+
+        // Display Bot Response
+        const botMessageElement = document.createElement('div');
+        botMessageElement.className = 'message bot';
+        botMessageElement.textContent = botResponse;
+        chatArea.appendChild(botMessageElement);
+
+        // Scroll to Bottom
+        chatArea.scrollTop = chatArea.scrollHeight;
+      } catch (error) {
+        console.error("Error fetching response from OpenRouter API:", error);
+
+        // Remove Typing Indicator
+        chatArea.removeChild(typingElement);
+
+        // Display Error Message
+        const errorMessageElement = document.createElement('div');
+        errorMessageElement.className = 'message bot';
+        errorMessageElement.textContent = "Sorry, something went wrong. Please try again.";
+        chatArea.appendChild(errorMessageElement);
+
+        // Scroll to Bottom
+        chatArea.scrollTop = chatArea.scrollHeight;
+
+        document.getElementById("voiceAiButton").addEventListener("click", function() {
+            window.location.href = "https://www.vapi.ai/?demo=true&shareKey=be3a0ec4-2bc7-45cf-8e6a-b1355a736864&assistantId=d94f411f-5055-43de-9660-5aa61927ddcc";
+        });
+      }
+    }
+ 
+
+    </script>
+
+</body>
+</html>

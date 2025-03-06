@@ -1,0 +1,150 @@
+AIzaSyAGHPYlL_4sMvMCqlHrYwqEqgsbRSA10jw
+
+
+Front end data :-
+
+Array(48)
+0
+: 
+{videoId: '4dprtEzunIk', title: 'HTML Crash Course: Master the Essentials in One Video! Start Your Front-End Journey Today!'}
+1
+: 
+{videoId: 'K1naz9wBwKU', title: 'CSS Crash Course: Master the Essentials in One Video! Elevate Your Front-End Skills Now!'}
+2
+: 
+{videoId: 'htznIeWKgg8', title: 'JavaScript Crash Course: Master the Basics in One Video! Ignite Your Front-End Mastery Series!'}
+3
+: 
+{videoId: 'BeVkob6Hl6w', title: '[Sorry for the Inconvenience🙏] JavaScript Crash Course: Master the Basics in One Video!'}
+4
+: 
+{videoId: 'EgDmCbhmstU', title: 'JavaScript Advance Crash Course: Level Up Your Coding Skills! Accelerate Your Front-End Mastery!'}
+5
+: 
+{videoId: 'uud2HqN6pTA', title: '🔥 Master Advanced JavaScript: Join, Share & Level Up! 🚀✨'}
+6
+: 
+{videoId: 'xG1_vbVPUUs', title: 'Animating Websites with HTML, CSS, and JS: A Step-by-Step Guide | HTML CSS JS Tutorial!'}
+7
+: 
+{videoId: 'n6UPwT2hf_g', title: 'Create a 3D Animated Website Using HTML, CSS & JS | Scrolling Animations with Canvas'}
+8
+: 
+{videoId: 'Ghjq2MPWHF0', title: 'Learn This in 2023: How Much Web Development is Required to Get a Job?'}
+9
+: 
+{videoId: 'UmfhqDJmzeg', title: 'Clone Apple Vision Website: HTML, CSS, JavaScript Tutorial'}
+10
+: 
+{videoId: 'ks4MFTHLfyg', title: 'Master Advanced JavaScript Concepts and Become a JavaScript Ninja'}
+11
+: 
+{videoId: 'EPELqpgdMjQ', title: '⚡[Epic Animation Adventure] Creating Interactive Animated Websites Using HTML CSS JS'}
+12
+: 
+{videoId: 'HG10yrq1pbk', title: '🌐 Responsive Web Development: Building Websites for All Devices! 📱💻🖥️'}
+13
+: 
+{videoId: 'InvSEpJUXu4', title: '[GAMECHANGER🚀] Project 1: Modern Web Development | HTML | CSS | JS'}
+14
+: 
+{videoId: '6kE8lrqfwHo', title: 'Master Async JavaScript: What it is and How to Use it'}
+15
+: 
+{videoId: '2IPEp_4obGw', title: 'JavaScript DOM Manipulation: How to DOMinate the DOM with JavaScript'}
+16
+: 
+{videoId: 'Y1tsJD28ocU', title: '🎮 Bubble Game Tutorial: Create Fun with JS | Harsh Sharma'}
+17
+: 
+{videoId: '2LsOyOaobrc', title: '🚀 Learn React JS in 90 Minutes! Complete Crash Course for Beginners 👨‍💻'}
+18
+: 
+{videoId: 'FM4EniYX2Jo', title: 'Shery.js: Your Secret Weapon for Amazing Websites! 💪🎨'}
+19
+: 
+{videoId: 'pv60QrlO4yM', title: '[Shery JS🚀] Project 2: Modern Web Development | HTML | CSS | JS'}
+20
+: 
+{videoId: '_7IR39vOKfU', title: '5 Real-Life JavaScript Effects and Features That Reign Supreme! 👑🌐'}
+21
+: 
+{videoId: 'D8HyB-W7ToI', title: '💥 Mind-Blowing ES6 JavaScript Techniques Every Coder Should Know!'}
+22
+: 
+{videoId: 'HxxN6AdEop0', title: '🚀 Mastering React/Next.js in 90 Minutes! Advanced Techniques👩‍💻'}
+23
+: 
+{videoId: 'Aw_SmcpEOdY', title: '🔥 JS Practice 1: Master JavaScript Essentials with Fun Mini Projects! 💡'}
+24
+: 
+{videoId: 'Ub83KGbDZzw', title: '🚀 JS Practice 2: Elevate Your JavaScript Skills with Exciting Projects! 💡'}
+25
+: 
+{videoId: 'BNqf1bsbeqU', title: '🚀 JS Practice 3: Elevate Your JavaScript Skills with Exciting Projects! 💡'}
+26
+: 
+{videoId: 'bVyigcIt-ac', title: 'Design an Animated Website and Stand Out in College 😎| Front-End Minor Project 2023'}
+27
+: 
+{videoId: 'hgNMVZcL83o', title: '💥Tailwind CSS Easy Peasy Tutorial: Ultimate Web Design Secret!'}
+28
+: 
+{videoId: 'P3fHboyHvkg', title: '🚀 [GAMECHANGER ] Create Modern Landing Page with HTML CSS JS | Shery.js Launch 🌟'}
+29
+: 
+{videoId: '6d5yRW5suZE', title: '[Shery.js🦸‍♂️] Create this Epic Animated Website or Regret It Forever! 💥'}
+30
+: 
+{videoId: 'yBebbcNBhRc', title: '✨GitHub Magic: Upload Your Projects and Launch a FREE Website in Minutes! 🚀'}
+31
+: 
+{videoId: 'GD0h-bUGHto', title: '[ Course Launch 🚀 ] Front-End Domination: Create Anything with Code'}
+32
+: 
+{videoId: 'AX_sQgShDkE', title: '🤯Create This Amazing Website, HTML CSS JS, Modern Web Development | GSAP | SwiperJS 🚀💻'}
+33
+: 
+{videoId: 'syHGmY75pfs', title: 'Quick React Practice Task | Docs Mini App | React | Framer Motion'}
+34
+: 
+{videoId: 'EaG3Zd04W5s', title: '[ GAMECHANGER 🚀 ] REACT JS BECOMES 100 TIMES EASY IF YOU FOLLOW THIS.'}
+35
+: 
+{videoId: 'Xe8CkYZvCig', title: 'ReactJs Crash Course: Master the Basics in One Video! Ignite Your Front-End Mastery Series!'}
+36
+: 
+{videoId: '6VbETTS67rM', title: '🚀Animated Websites with HTML, CSS, and JS | Responsive | Front-End Minor Project 2024 🔥🤯'}
+37
+: 
+{videoId: 'fr85UI37dUA', title: 'Learn Scrolling Animation with Locomotive JS! 🌈 | Animated Website Tutorial | HTML CSS JS'}
+38
+: 
+{videoId: '9cmy6AK3IBA', title: 'Web Development Course | Frontend | Level 1'}
+39
+: 
+{videoId: 'AZXYSlxj0vU', title: 'ReactJS | Modern Animated Website | OCHI DESIGN | Awwwarded Website Clone'}
+40
+: 
+{videoId: '3zF06-yiEJU', title: 'I Created an AMAZING Animated Website Using HTML CSS JS in Just 4 Hour!'}
+41
+: 
+{videoId: 'kT2KSDwlw28', title: 'Tinder Web Effect❤️ | HTML, CSS, JS | Front-End Mobile App 2024 🚀✨'}
+42
+: 
+{videoId: '9qQ8WxF-h8o', title: '[PROCESS BRAKDOWN] React Three Fiber | Cylinder Work Showcase'}
+43
+: 
+{videoId: 'yItOSReV_f0', title: '3D React.js Apple Mac Book Pro Landing Page'}
+44
+: 
+{videoId: 'lVzb6pmel_E', title: 'TypeScript Domination - Full Course'}
+45
+: 
+{videoId: 'nFwNWvN_CRk', title: '🚀 Lenis - Learn What Matters | Smooth Scrolling in Web'}
+46
+: 
+{videoId: 'tBB6iUDvdhQ', title: '🚀 Scroll-Trigger | Learn What Matters'}
+47
+: 
+{videoId: 'B-4eN1Pb7qo', title: '🚀 Three.JS – Learn What Matters:

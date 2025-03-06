@@ -1,0 +1,87 @@
+0
+: 
+{videoId: 'T55Kb8rrH1g', title: 'Master JavaScript Essentials for Backend Development | Part 1'}
+1
+: 
+{videoId: 'OFbSqd54Wwk', title: 'Install Node.js & Learn File System Operations | Backend Development Part 2'}
+2
+: 
+{videoId: 'I3y1XHwBL6w', title: 'NPM Basics & Advanced Features | Backend Development Part 3'}
+3
+: 
+{videoId: '3CkgSQWwNlk', title: 'Master Express.js, Routing & Middleware | Backend Development Part 4'}
+4
+: 
+{videoId: '5NWdfv5P5d4', title: 'Form Handling, Sessions & Cookies | Backend Development Essentials | Part 5'}
+5
+: 
+{videoId: 'mRTG7fdzF6s', title: 'Master EJS, Dynamic Routing & Project Setup | Backend Development Part 6'}
+6
+: 
+{videoId: 'HXLDBqs5urw', title: 'Hands-on Practice: Revisiting Key Concepts | Backend Development Part 7'}
+7
+: 
+{videoId: 'Mt_6jGHfQyk', title: 'From Theory to Practice: Real-World Applications | Backend Development Part 8'}
+8
+: 
+{videoId: 'ZZQcDrRl98w', title: 'Building the Edit Feature | Backend Development Part 9'}
+9
+: 
+{videoId: '4TFA-vy_fdo', title: 'MongoDB, Mongoose & Database Management | Backend Development Part 10'}
+10
+: 
+{videoId: 'ZMEVI1Y7FtY', title: 'Master CRUD Operations with MongoDB | Backend Development Part 11'}
+11
+: 
+{videoId: 'DteKTbG2hE0', title: 'CRUD Operations with EJS & Server-Side Rendering | MongoDB | Backend Development Part 12'}
+12
+: 
+{videoId: 'PbDXCh4sMIo', title: 'Update feature with EJS & Server-Side Rendering | MongoDB | Part 13 - Backend Development'}
+13
+: 
+{videoId: '19RpMEonSu8', title: 'Authentication & Authorization | Bcrypt | JWT | Part 14 - Backend Development'}
+14
+: 
+{videoId: 'brf7roEutrc', title: 'Authentication & Authorization | JWT Token | MongoDB | Part 15 - Backend Development'}
+15
+: 
+{videoId: 'g1uL2byQTzo', title: 'Data Association | MongoDB | Part 16 - Backend Development'}
+16
+: 
+{videoId: '8CAjzElJUiU', title: 'Mini Project 1 | Data Association - MongoDB | Part 17 - Backend Development'}
+17
+: 
+{videoId: 'VR9ua1zVqz0', title: 'Mini Project 1 - Part 2 | Data Association - MongoDB | Part 18 - Backend Development'}
+18
+: 
+{videoId: 'Ebp7dWMGHlI', title: 'Mini Project 1 - Part 3 | Data Association - MongoDB | Part 19 - Backend Development'}
+19
+: 
+{videoId: 'n1a2cITIVeQ', title: 'Multer - multipart/form-data | MongoDB | Part 20 - Backend Development'}
+20
+: 
+{videoId: 'SgcDucMCngw', title: 'Multer - Proper Folder Structure | MongoDB | Part 21 - Backend Development'}
+21
+: 
+{videoId: 'yinZI1Es3kk', title: 'Project Announcement | Upcoming launches | MongoDB | Backend Development'}
+22
+: 
+{videoId: 'p0dCi5D6gDI', title: 'Backend Project 1 | Scatch - A premium bag Shop | Backend Development'}
+23
+: 
+{videoId: 'sEZ1lul6GpI', title: 'Backend Project 1 - Part 2 | Scatch | Modeling the Database | Backend Development'}
+24
+: 
+{videoId: 'Bl3u1VTYTHY', title: 'Backend Project 1 - Part 3 | Scatch | Separation of Concerns | Backend Development'}
+25
+: 
+{videoId: 'Lu7q-Uqy7-g', title: 'Backend Project 1 - Part 4 | Scatch | Development/Production Setup | Backend Development'}
+26
+: 
+{videoId: 'CP7xxjuAJ0w', title: '[🚀Backend Project] Chess.com clone which you will be able to understand. | Sheryians'}
+27
+: 
+{videoId: '5lWWOJBWeTA', title: 'Backend Project 1 - Part 5 | Scatch | User Authentication & Functionality | Backend Development'}
+28
+: 
+{videoId: 'up9db_91qEE', title: 'Backend Project 1 - Part 6 | Scat

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fetch Playlist Video IDs</title>
+    <script>
+        const API_KEY = "AIzaSyAGHPYlL_4sMvMCqlHrYwqEqgsbRSA10jw";  // 👈 Apni API key yaha dal
+        const PLAYLIST_ID = "PLbtI3_MArDOkXRLxdMt1NOMtCS-84ibHH"; // 👈 Apni playlist ID yaha dal
+
+        async function fetchPlaylistVideos() {
+            let nextPageToken = "";
+            let allVideos = [];
+
+            do {
+                const response = await fetch(`https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=50&playlistId=${PLAYLIST_ID}&key=${API_KEY}&pageToken=${nextPageToken}`);
+                const data = await response.json();
+
+                data.items.forEach(item => {
+                    allVideos.push({
+                        videoId: item.snippet.resourceId.videoId,
+                        title: item.snippet.title
+                    });
+                });
+
+                nextPageToken = data.nextPageToken;
+            } while (nextPageToken);
+
+            console.log(allVideos); // ✅ Yeh sari video IDs print karega
+        }
+
+        fetchPlaylistVideos();
+    </script>
+</head>
+<body>
+    <h1>Check Console for Video IDs</h1>
+</body>
+</html>

@@ -1,0 +1,767 @@
+[
+    {
+      "videoId": "4dprtEzunIk",
+      "title": "HTML Crash Course: Master the Essentials in One Video! Start Your Front-End Journey Today!",
+      "mcqs": [
+        "What does HTML stand for?",
+        "Which tag is used to create a hyperlink in HTML?"
+      ],
+      "projects": [
+        "Create a personal portfolio website using HTML.",
+        "Design a simple blog page with HTML."
+      ],
+      "tasks": [
+        "Write an HTML file with a heading, paragraph, and image.",
+        "Create a table with at least 3 rows and 3 columns in HTML."
+      ]
+    },
+    {
+      "videoId": "K1naz9wBwKU",
+      "title": "CSS Crash Course: Master the Essentials in One Video! Elevate Your Front-End Skills Now!",
+      "mcqs": [
+        "What does CSS stand for?",
+        "Which property is used to change text color in CSS?"
+      ],
+      "projects": [
+        "Design a landing page using only HTML & CSS.",
+        "Create a responsive navigation bar using CSS."
+      ],
+      "tasks": [
+        "Style an HTML form using CSS.",
+        "Apply flexbox to align div elements properly."
+      ]
+    },
+    {
+      "videoId": "htznIeWKgg8",
+      "title": "JavaScript Crash Course: Master the Basics in One Video! Ignite Your Front-End Mastery Series!",
+      "mcqs": [
+        "What is the correct syntax for a function in JavaScript?",
+        "Which keyword is used to declare a variable in JavaScript?"
+      ],
+      "projects": [
+        "Build a simple calculator using JavaScript.",
+        "Create a to-do list app with local storage."
+      ],
+      "tasks": [
+        "Write a function that adds two numbers and returns the sum.",
+        "Create an event listener for a button click."
+      ]
+    },
+    {
+      "videoId": "n6UPwT2hf_g",
+      "title": "Create a 3D Animated Website Using HTML, CSS & JS | Scrolling Animations with Canvas",
+      "mcqs": [
+        "Which JavaScript library is commonly used for animations?",
+        "What is the purpose of the 'canvas' element in HTML?"
+      ],
+      "projects": [
+        "Build a 3D scrolling website using GSAP.",
+        "Create an interactive web page with animations."
+      ],
+      "tasks": [
+        "Add a simple animation to a button hover effect.",
+        "Use JavaScript to animate an image on scroll."
+      ]
+    },
+    {
+      "videoId": "2IPEp_4obGw",
+      "title": "JavaScript DOM Manipulation: How to DOMinate the DOM with JavaScript",
+      "mcqs": [
+        "What does 'document.getElementById' return?",
+        "Which method is used to add an event listener to an element?"
+      ],
+      "projects": [
+        "Create an image slider using JavaScript DOM.",
+        "Build an interactive FAQ section using JS."
+      ],
+      "tasks": [
+        "Change the text of an HTML element using JavaScript.",
+        "Add a new list item dynamically using JS."
+      ]
+    },
+    {
+      "videoId": "2LsOyOaobrc",
+      "title": "🚀 Learn React JS in 90 Minutes! Complete Crash Course for Beginners 👨‍💻",
+      "mcqs": [
+        "What is the correct syntax to create a React component?",
+        "Which hook is used to handle state in functional components?"
+      ],
+      "projects": [
+        "Build a weather app using React.",
+        "Create a simple expense tracker in React."
+      ],
+      "tasks": [
+        "Set up a new React project using Vite or Create React App.",
+        "Build a React component that displays user details."
+      ]
+    },
+    {
+      "videoId": "syHGmY75pfs",
+      "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+      "mcqs": [
+        "What is Framer Motion used for in React?",
+        "Which method is used to pass data between React components?"
+      ],
+      "projects": [
+        "Build an animated landing page using Framer Motion.",
+        "Create a documentation site using React."
+      ],
+      "tasks": [
+        "Animate a button click using Framer Motion.",
+        "Create a React component with props."
+      ]
+    },
+    {
+      "videoId": "EaG3Zd04W5s",
+      "title": "[ GAMECHANGER 🚀 ] REACT JS BECOMES 100 TIMES EASY IF YOU FOLLOW THIS.",
+      "mcqs": [
+        "What is the use of React Router?",
+        "How do you fetch data in React?"
+      ],
+      "projects": [
+        "Create a movie search app using React & API.",
+        "Build a task management system with React."
+      ],
+      "tasks": [
+        "Set up React Router in a project.",
+        "Use Fetch API to retrieve data in React."
+      ]
+    },
+    {
+      "videoId": "6kE8lrqfwHo",
+      "title": "Master Async JavaScript: What it is and How to Use it",
+      "mcqs": [
+        " What is the primary benefit of using async/await in JavaScript?",
+        "Which of the following is an example of a promise in JavaScript?"
+
+      ],
+      "projects": [
+        "Create an async weather app that fetches data from a public API.",
+        "Build a promise-based todo list app with CRUD operations."
+       
+      ],
+      "tasks": [
+       " Convert a callback-based code to use promises.",
+       "Implement async/await error handling for a given code."
+      ]
+    },
+    {
+      "videoId": "2IPEp_4obGw",
+      "title": "JavaScript DOM Manipulation: How to DOMinate the DOM with JavaScript",
+      "mcqs": [
+        " What is the purpose of the document.getElementById() method in JavaScript?",
+        "Which JavaScript method is used to add a new element to the DOM?"
+
+      ],
+      "projects": [
+        "Build a To-Do List App that allows users to add, remove, and edit tasks using JavaScript DOM manipulation.",
+        "Create a Dynamic Gallery that displays images and allows users to add, remove, and edit images using JavaScript DOM manipulation."
+        
+
+      ],
+      "tasks": [
+         "Write a JavaScript function that changes the background color of an element with the id header to red.",
+         "Use JavaScript to create a new paragraph element and append it to the end of the body element."
+
+      ]
+    },
+    {
+      "videoId": "Y1tsJD28ocU",
+      "title": "🎮 Bubble Game Tutorial: Create Fun with JS | Harsh Sharma",
+      "mcqs": [
+        "What is the primary purpose of the requestAnimationFrame() function in the Bubble Game?",
+        "How do you handle collisions between bubbles in the game using JavaScript?"
+        
+
+      ],
+      "projects": [
+        "Create a modified version of the Bubble Game with new features, such as different bubble sizes and colors.",
+        "Build a new game, Popping Balloons, using similar JavaScript concepts and techniques."
+
+        
+
+      ],
+      "tasks": [
+        "Write a JavaScript function to create a new bubble object with random position, size, and color.",
+        "Implement a scoring system in the Bubble Game that increments the score each time a bubble is popped"
+
+      ]
+    },
+    {
+      "videoId": "2LsOyOaobrc",
+      "title": "🚀 Learn React JS in 90 Minutes! Complete Crash Course for Beginners 👨‍💻",
+      "mcqs": [
+        " What is the primary purpose of the useState() hook in React?",
+         "How do you render a list of items in React using the map() function?"
+        
+        
+        
+
+      ],
+      "projects": [
+       " Build a simple Todo List App using React, allowing users to add and remove tasks.",
+        "Create a Weather App using React, displaying the current weather and forecast for a given location"
+
+        
+
+      ],
+      "tasks": [
+       "Write a React component that displays a counter, incrementing by 1 every second.",
+       "Implement a search bar in a React app that filters a list of items based on user input."
+
+      ]
+    },
+    {
+      "videoId": "FM4EniYX2Jo",
+      "title": "Shery.js: Your Secret Weapon for Amazing Websites! 💪🎨",
+      "mcqs": [
+       " What is Shery.js, and what is its primary purpose?",
+        "How does Shery.js simplify the process of creating interactive web pages?"
+                
+        
+        
+        
+
+      ],
+      "projects": [
+        "Build a responsive landing page using Shery.js, incorporating animations and effects.",
+       "Create an interactive portfolio website using Shery.js, showcasing your design and development skills."
+
+        
+
+      ],
+      "tasks": [
+      "Use Shery.js to create a scrolling animation that triggers when a user reaches a specific section of the page.",
+      "Implement a Shery.js-powered modal window that appears when a user clicks a button."
+
+      ]
+    },
+    {
+      "videoId": "pv60QrlO4yM",
+      "title": "[Shery JS🚀] Project 2: Modern Web Development | HTML | CSS | JS",
+      "mcqs": [
+      " What is the role of HTML, CSS, and JS in modern web development?",
+       "How does Shery JS simplify the process of building modern web applications?"
+   
+        
+        
+        
+        
+        
+
+      ],
+      "projects": [
+        " Build a modern e-commerce website using HTML, CSS, JS, and Shery JS.",
+        " Create a responsive blog website using HTML, CSS, JS, and Shery JS."
+        
+
+        
+
+      ],
+      "tasks": [
+       " 1. Use Shery JS to create a sticky navigation bar that changes color on scroll.",
+       " 2. Implement a Shery JS-powered image carousel that automatically rotates images every 5 seconds"
+
+      ]
+    },
+    {
+      "videoId": "_7IR39vOKfU",
+      "title": "5 Real-Life JavaScript Effects and Features That Reign Supreme! 👑🌐",
+      "mcqs": [
+    "What is the purpose of the Intersection Observer API in JavaScript?",
+    "How does the Web Storage API enable offline data storage in web applications?"
+  
+        
+        
+
+      ],
+      "projects": [
+      "Build a website with a sticky header that changes color on scroll using JavaScript.",
+      "Create a to-do list app with offline data storage using JavaScript and the Web Storage API."
+
+        
+
+        
+
+      ],
+      "tasks": [
+      " Implement a JavaScript-powered parallax scrolling effect on a webpage.",
+      "Use JavaScript to create a responsive accordion menu that expands and collapses on click."
+
+      ]
+    },
+    {
+      "videoId": "D8HyB-W7ToI",
+      "title": "💥 Mind-Blowing ES6 JavaScript Techniques Every Coder Should Know!",
+      "mcqs": [
+       "What is the purpose of the let and const keywords in ES6 JavaScript?",
+       "How does the spread operator (...) simplify array and object manipulation in ES6?"
+        
+        
+  
+        
+        
+
+      ],
+      "projects": [
+       " Build a simple RESTful API using ES6 JavaScript and the Fetch API.",
+       "  Create a JavaScript module that uses ES6 classes and inheritance to model real-world objects."
+        
+
+        
+
+        
+
+      ],
+      "tasks": [
+        " Use ES6 destructuring to extract data from a nested object and assign it to separate variables.",
+        " Implement a JavaScript function that uses the ES6 Promise.all() method to handle multiple asynchronous operations."
+
+      ]
+    },
+    {
+      "videoId": "HxxN6AdEop0",
+      "title": "🚀 Mastering React/Next.js in 90 Minutes! Advanced Techniques👩‍💻",
+      "mcqs": [
+        " What is the main difference between React and Next.js?",
+        " How does Next.js handle server-side rendering (SSR) for React applications?"
+        
+        
+        
+  
+      ],
+      "projects": [
+        " Build a Next.js blog with dynamic routing, server-side rendering, and Markdown support.",
+        " Create a React e-commerce app with Next.js, featuring server-side rendering and API routes"
+        
+
+        
+
+      ],
+      "tasks": [
+        " Implement internationalization (i18n) in a Next.js app using the next-i18next library.",
+        "Optimize a Next.js app's performance by using static site generation (SSG) and image optimization"
+
+      ]
+    },
+    {
+      "videoId": "Aw_SmcpEOdY",
+      "title": "🔥 JS Practice 1: Master JavaScript Essentials with Fun Mini Projects! 💡",
+      "mcqs": [
+        " What is the difference between null and undefined in JavaScript?",
+" How does the this keyword work in JavaScript functions?"
+        
+        
+        
+  
+      ],
+      "projects": [
+       "Build a Rock, Paper, Scissors game using JavaScript and basic DOM manipulation.",
+       "Create a simple To-Do List app using JavaScript and local storage."
+
+        
+
+        
+
+      ],
+      "tasks": [
+       "Write a JavaScript function that reverses a given string.",
+"Implement a JavaScript timer that counts down from 60 seconds and displays the remaining time."
+
+      ]
+    },
+  
+      {
+        "videoId": "Ub83KGbDZzw",
+        "title": "🚀 JS Practice 2: Elevate Your JavaScript Skills with Exciting Projects! 💡",
+        "mcqs": [
+          "What is the difference between null and undefined in JavaScript?",
+          "How does the 'this' keyword work in JavaScript functions?"
+        ],
+        "projects": [
+          "Build a Rock, Paper, Scissors game using JavaScript and basic DOM manipulation.",
+          "Create a simple To-Do List app using JavaScript and local storage."
+        ],
+        "tasks": [
+          "Write a JavaScript function that reverses a given string.",
+          "Implement a JavaScript timer that counts down from 60 seconds and displays the remaining time."
+        ]
+      },
+
+      {
+        "videoId": "BNqf1bsbeqU",
+        "title": "🚀 JS Practice 3: Elevate Your JavaScript Skills with Exciting Projects! 💡",
+        "mcqs": [
+          "Explain closures in JavaScript with an example.",
+          "What are JavaScript Promises and how do they work?"
+        ],
+        "projects": [
+          "Develop a calculator app with JavaScript.",
+          "Create a digital clock using JavaScript."
+        ],
+        "tasks": [
+          "Write a function that removes duplicates from an array.",
+          "Implement a JavaScript function that fetches data from an API and displays it."
+        ]
+      },
+      {
+        "videoId": "bVyigcIt-ac",
+        "title": "Design an Animated Website and Stand Out in College 🤓 | Front-End Minor Project 2023",
+        "mcqs": [
+          "What are CSS animations and how do they work?",
+          "How can you use keyframes in CSS animations?"
+        ],
+        "projects": [
+          "Create a personal portfolio website with animations.",
+          "Build an animated navigation menu using CSS and JavaScript."
+        ],
+        "tasks": [
+          "Implement a hover effect that animates a button using CSS.",
+          "Create a smooth scrolling effect using JavaScript."
+        ]
+      },
+      {
+        "videoId": "hgNMVZcL830",
+        "title": "💥 Tailwind CSS Easy Peasy Tutorial: Ultimate Web Design Secret!",
+        "mcqs": [
+          "What is Tailwind CSS and how does it differ from traditional CSS frameworks?",
+          "How can you customize Tailwind CSS to fit your project’s design needs?"
+        ],
+        "projects": [
+          "Create a responsive landing page using Tailwind CSS.",
+          "Build a portfolio website with Tailwind CSS components."
+        ],
+        "tasks": [
+          "Design a navbar using Tailwind utility classes.",
+          "Implement a dark mode toggle with Tailwind CSS."
+        ]
+      },
+      {
+        "videoId": "P3fHboyHvkg",
+        "title": "🚀 [GAMECHANGER] Create Modern Landing Page with HTML CSS JS | Shery.js Launch 🌟",
+        "mcqs": [
+          "What are the key components of a modern landing page?",
+          "How can animations improve user engagement on a website?"
+        ],
+        "projects": [
+          "Build a modern, animated landing page with HTML, CSS, and JavaScript.",
+          "Create a product showcase page using smooth scrolling effects."
+        ],
+        "tasks": [
+          "Implement a fade-in animation for elements as the user scrolls.",
+          "Build a call-to-action button with hover effects."
+        ]
+      },
+      {
+        "videoId": "6d5yRW5suZE",
+        "title": "[Shery.js 👨‍💻] Create this Epic Animated Website or Regret It Forever! 💥",
+        "mcqs": [
+          "What is Shery.js and how does it enhance website animations?",
+          "How can GSAP be used with Shery.js for advanced animations?"
+        ],
+        "projects": [
+          "Develop an interactive portfolio using Shery.js.",
+          "Create an animated landing page with GSAP and Shery.js."
+        ],
+        "tasks": [
+          "Implement a smooth page transition using Shery.js.",
+          "Create a scroll-triggered animation effect."
+        ]
+      },
+      {
+        "videoId": "yBebbcNBhRc",
+        "title": "✨ GitHub Magic: Upload Your Projects and Launch a FREE Website in Minutes! 🚀",
+        "mcqs": [
+          "How does GitHub Pages work for hosting websites?",
+          "What are the steps to push a project to GitHub?"
+        ],
+        "projects": [
+          "Deploy a personal portfolio using GitHub Pages.",
+          "Set up a project documentation website on GitHub."
+        ],
+        "tasks": [
+          "Create a GitHub repository and publish a simple website.",
+          "Configure a custom domain for a GitHub Pages site."
+        ]
+      },
+      {
+        "videoId": "GD0h-bUGHto",
+        "title": "[ Course Launch 🚀 ] Front-End Domination: Create Anything with Code",
+        "mcqs": [
+          "What are the key front-end technologies for modern web development?",
+          "How does responsive design improve user experience?"
+        ],
+        "projects": [
+          "Build a fully responsive personal portfolio website.",
+          "Develop a multi-page business website using HTML, CSS, and JavaScript."
+        ],
+        "tasks": [
+          "Create a responsive grid layout using CSS Flexbox or Grid.",
+          "Implement a contact form with form validation."
+        ]
+      },
+      {
+        "videoId": "AX_sQgShDKc",
+        "title": "🤯 Create This Amazing Website, HTML CSS JS, Modern Web Development | GSAP | SwiperJS 🚀 💻",
+        "mcqs": [
+          "What is GSAP and how is it used for web animations?",
+          "How does SwiperJS help in creating responsive sliders?"
+        ],
+        "projects": [
+          "Create an animated landing page using GSAP.",
+          "Develop an image slider with SwiperJS."
+        ],
+        "tasks": [
+          "Implement a fade-in animation using GSAP.",
+          "Create a responsive image carousel with SwiperJS."
+        ]
+      },
+      {
+        "videoId": "syHGmY75pfs",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "mcqs": [
+          "What is Framer Motion and how does it enhance React animations?",
+          "How do you manage component state in React?"
+        ],
+        "projects": [
+          "Build a mini documentation app with React.",
+          "Create an animated to-do list using Framer Motion."
+        ],
+        "tasks": [
+          "Implement a smooth page transition in React using Framer Motion.",
+          "Create an interactive button animation with Framer Motion."
+        ]
+      },
+      
+        {
+          "videoId": "EaG3Zd04W5s",
+          "title": "🚀 [GAMECHANGER] REACT JS BECOMES 100 TIMES EASY IF YOU FOLLOW THIS.",
+          "mcqs": [
+            "What are React hooks and how do they work?",
+            "How does React’s virtual DOM improve performance?"
+          ],
+          "projects": [
+            "Build a simple React application with functional components.",
+            "Create a to-do list app using React and useState."
+          ],
+          "tasks": [
+            "Implement a useEffect hook to fetch data from an API.",
+            "Create a React component with props and state."
+          ]
+        },
+        {
+          "videoId": "Xe8CkYZvCig",
+          "title": "ReactJs Crash Course: Master the Basics in One Video! Ignite Your Front-End Mastery Series!",
+          "mcqs": [
+            "What is JSX in React and how does it differ from HTML?",
+            "How do React components communicate using props?"
+          ],
+          "projects": [
+            "Develop a basic React app with multiple components.",
+            "Create a user profile page with React props and state."
+          ],
+          "tasks": [
+            "Write a React component that renders a list dynamically.",
+            "Implement an event handler in a React component."
+          ]
+        },
+        {
+          "videoId": "6VbETTS67rM",
+          "title": "🚀 Animated Websites with HTML, CSS, and JS | Responsive | Front-End Minor Project 2024 🔥🧐",
+          "mcqs": [
+            "How do CSS animations work and when should they be used?",
+            "What is the difference between CSS transitions and keyframes?"
+          ],
+          "projects": [
+            "Build a responsive animated landing page.",
+            "Create a scrolling animation effect using CSS and JavaScript."
+          ],
+          "tasks": [
+            "Implement a fade-in effect using CSS keyframes.",
+            "Create a bouncing animation using CSS animations."
+          ]
+        },
+        {
+          "videoId": "fr8SUI37dUA",
+          "title": "Learn Scrolling Animation with Locomotive JS! 🌈 | Animated Website Tutorial | HTML CSS JS",
+          "mcqs": [
+            "What is Locomotive JS and how does it enhance scrolling animations?",
+            "How can smooth scrolling be implemented in a webpage?"
+          ],
+          "projects": [
+            "Develop a webpage with Locomotive JS for smooth scrolling effects.",
+            "Create a parallax scrolling effect using CSS and JavaScript."
+          ],
+          "tasks": [
+            "Implement a scroll-triggered animation effect.",
+            "Create a section reveal animation on scroll."
+          ]
+        },
+        {
+          "videoId": "9cmy6AK3IBA",
+          "title": "Web Development Course | Frontend | Level 1",
+          "mcqs": [
+            "What are the fundamental technologies of web development?",
+            "How does CSS Grid differ from Flexbox?"
+          ],
+          "projects": [
+            "Build a simple static website using HTML and CSS.",
+            "Develop a multi-page website with navigation."
+          ],
+          "tasks": [
+            "Create a responsive navbar using Flexbox.",
+            "Implement a sticky header with CSS."
+          ]
+        },
+        {
+          "videoId": "AZXYSlxj0vU",
+          "title": "ReactJS | Modern Animated Website | OCHI DESIGN | Awwwarded Website Clone",
+          "mcqs": [
+            "What are React Fragments and when should they be used?",
+            "How can animations be integrated into a React project?"
+          ],
+          "projects": [
+            "Build a modern animated website using React.",
+            "Create a React project that includes animations with Framer Motion."
+          ],
+          "tasks": [
+            "Implement a smooth page transition using Framer Motion.",
+            "Create an animated navigation menu in React."
+          ]
+        },
+        {
+          "videoId": "3zF06-yiEJU",
+          "title": "I Created an AMAZING Animated Website Using HTML CSS JS in Just 4 Hours!",
+          "mcqs": [
+            "How can CSS animations be optimized for performance?",
+            "What is the role of JavaScript in web animations?"
+          ],
+          "projects": [
+            "Design an interactive portfolio website.",
+            "Create an animated product showcase webpage."
+          ],
+          "tasks": [
+            "Implement a hover animation effect.",
+            "Create a button click animation using JavaScript."
+          ]
+        },
+        {
+          "videoId": "K2TKSDwIw28",
+          "title": "Tinder Web Effect❤️ | HTML, CSS, JS | Front-End Mobile App 2024 🚀✨",
+          "mcqs": [
+            "What are swipe animations and how can they be implemented?",
+            "How can gesture-based interactions be added to a website?"
+          ],
+          "projects": [
+            "Build a swipe-based UI similar to Tinder using JavaScript.",
+            "Create a mobile-friendly card swiping animation."
+          ],
+          "tasks": [
+            "Implement drag-and-drop functionality in JavaScript.",
+            "Create a swipe-left and swipe-right action for elements."
+          ]
+        },
+        {
+          "videoId": "9qQ8WXF-h8o",
+          "title": "[PROCESS BREAKDOWN] React Three Fiber | Cylinder Work Showcase",
+          "mcqs": [
+            "What is React Three Fiber and how does it work?",
+            "How can 3D objects be rendered in a React application?"
+          ],
+          "projects": [
+            "Create a simple 3D model viewer using React Three Fiber.",
+            "Develop an interactive 3D webpage with animated objects."
+          ],
+          "tasks": [
+            "Render a basic 3D object using Three.js.",
+            "Animate a 3D model using React Three Fiber."
+          ]
+        },
+        {
+          "videoId": "yIt0SREv_f0",
+          "title": "3D React.js Apple Mac Book Pro Landing Page",
+          "mcqs": [
+            "How can 3D models be integrated into a React project?",
+            "What are the performance considerations when using WebGL?"
+          ],
+          "projects": [
+            "Build a 3D product showcase webpage using React.",
+            "Create an interactive MacBook Pro landing page with 3D effects."
+          ],
+          "tasks": [
+            "Implement zoom and rotation interactions for a 3D model.",
+            "Optimize 3D performance for smooth animations."
+          ]
+        },
+        {
+          "videoId": "lvZb6pmel_E",
+          "title": "TypeScript Domination - Full Course",
+          "mcqs": [
+            "What are the advantages of using TypeScript over JavaScript?",
+            "How does TypeScript improve code maintainability?"
+          ],
+          "projects": [
+            "Convert a JavaScript project to TypeScript.",
+            "Build a TypeScript-based web application."
+          ],
+          "tasks": [
+            "Define and use interfaces in TypeScript.",
+            "Implement type safety in a React project using TypeScript."
+          ]
+        },
+        {
+          "videoId": "nFnWWvN_CrK",
+          "title": "🚀 Lenis - Learn What Matters | Smooth Scrolling in Web",
+          "mcqs": [
+            "What is Lenis and how does it improve scrolling performance?",
+            "How can smooth scrolling enhance user experience?"
+          ],
+          "projects": [
+            "Build a webpage with smooth scrolling effects using Lenis.",
+            "Create a scrolling-based interactive website."
+          ],
+          "tasks": [
+            "Implement smooth scrolling in a webpage using JavaScript.",
+            "Add parallax effects to elements during scroll."
+          ]
+        },
+        {
+          "videoId": "tBB6iUDvdhQ",
+          "title": "🚀 Scroll-Trigger | Learn What Matters",
+          "mcqs": [
+            "1. What is ScrollTrigger in JavaScript, and how does it enhance web animations?",
+            "2. How can you use GSAP's ScrollTrigger to create scroll-based animations?"
+          ],
+          "projects": [
+            "Implement a scroll-triggered animation where elements fade in as the user scrolls down.",
+            "Build a parallax scrolling effect using ScrollTrigger and GSAP."
+          ],
+          "tasks": [
+            "Create a simple ScrollTrigger effect that changes an element’s background color on scroll.",
+            "Develop a horizontal scrolling section using ScrollTrigger."
+          ]
+        },
+        {
+          "videoId": "B-4eN1Pb7qo",
+          "title": "🚀 Three.JS – Learn What Matters",
+          "mcqs": [
+            "1. What is Three.js, and why is it used in web development?",
+            "2. How do you create a basic 3D scene using Three.js?"
+          ],
+          "projects": [
+            "Create a rotating 3D cube using Three.js.",
+            "Develop an interactive 3D model viewer with camera controls."
+          ],
+          "tasks": [
+            "Write a Three.js script to add lighting to a 3D scene.",
+            "Implement a mouse-controlled object rotation in Three.js."
+          ]
+        }
+        
+      ]
+  
+      
+  
+    
+  
+  

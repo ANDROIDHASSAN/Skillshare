@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chatbot with OpenRouter API</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    /* Floating Chat Button */
+    #chat-button {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      border-radius: 50%;
+      width: 60px;
+      height: 60px;
+      font-size: 18px;
+      cursor: pointer;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+      z-index: 1000;
+    }
+
+    /* Chat Window */
+    #chat-window {
+      position: fixed;
+      bottom: 90px;
+      right: 20px;
+      width: 300px;
+      height: 400px;
+      background-color: white;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+      display: none;
+      flex-direction: column;
+      z-index: 1000;
+    }
+
+    /* Chat Header */
+    #chat-header {
+      background-color: #007bff;
+      color: white;
+      padding: 10px;
+      border-top-left-radius: 10px;
+      border-top-right-radius: 10px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    #chat-header button {
+      background: none;
+      border: none;
+      color: white;
+      font-size: 16px;
+      cursor: pointer;
+    }
+
+    /* Chat Area */
+    #chat-area {
+      flex: 1;
+      padding: 10px;
+      overflow-y: auto;
+      border-bottom: 1px solid #ccc;
+    }
+
+    .message {
+      margin-bottom: 10px;
+      padding: 8px;
+      border-radius: 5px;
+      max-width: 80%;
+    }
+
+    .message.user {
+      background-color: #007bff;
+      color: white;
+      margin-left: auto;
+      text-align: right;
+    }
+
+    .message.bot {
+      background-color: #f1f1f1;
+      color: black;
+      margin-right: auto;
+      text-align: left;
+    }
+
+    .typing-indicator {
+      display: inline-block;
+      padding: 8px;
+      background-color: #f1f1f1;
+      border-radius: 5px;
+      color: #555;
+      font-style: italic;
+    }
+
+    .loading {
+      display: inline-block;
+      padding: 8px;
+      background-color: #f1f1f1;
+      border-radius: 5px;
+      color: #555;
+      font-style: italic;
+    }
+
+    /* Input Area */
+    #input-area {
+      display: flex;
+      padding: 10px;
+    }
+
+    #input-area input {
+      flex: 1;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      margin-right: 10px;
+    }
+
+    #input-area button {
+      background-color: #007bff;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      padding: 8px 12px;
+      cursor: pointer;
+    }
+
+    #input-area button:hover {
+      background-color: #0056b3;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Floating Chat Button -->
+  <button id="chat-button">Chat</button>
+
+  <!-- Chat Window -->
+  <div id="chat-window">
+    <div id="chat-header">
+      <span>Chatbot</span>
+      <button id="minimize-button">_</button>
+    </div>
+    <div id="chat-area"></div>
+    <div id="input-area">
+      <input type="text" id="user-input" placeholder="Type a message...">
+      <button id="send-button">Send</button>
+    </div>
+  </div>
+
+  <script>
+    // DOM Elements
+    const chatButton = document.getElementById('chat-button');
+    const chatWindow = document.getElementById('chat-window');
+    const minimizeButton = document.getElementById('minimize-button');
+    const chatArea = document.getElementById('chat-area');
+    const userInput = document.getElementById('user-input');
+    const sendButton = document.getElementById('send-button');
+
+    // API Key and Configuration
+    const OPENROUTER_API_KEY = "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";
+    const OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions";
+
+    // Toggle Chat Window
+    chatButton.addEventListener('click', () => {
+      chatWindow.style.display = chatWindow.style.display === 'flex' ? 'none' : 'flex';
+    });
+
+    // Minimize Chat Window
+    minimizeButton.addEventListener('click', () => {
+      chatWindow.style.display = 'none';
+    });
+
+    // Send Message
+    sendButton.addEventListener('click', () => {
+      sendMessage();
+    });
+
+    userInput.addEventListener('keypress', (e) => {
+      if (e.key === 'Enter') {
+        sendMessage();
+      }
+    });
+
+    // Show Typing Indicator
+    function showTypingIndicator() {
+      const typingElement = document.createElement('div');
+      typingElement.className = 'typing-indicator';
+      typingElement.textContent = "Bot is typing...";
+      chatArea.appendChild(typingElement);
+      chatArea.scrollTop = chatArea.scrollHeight;
+      return typingElement;
+    }
+
+    // Show Loading State
+    function showLoadingState() {
+      const loadingElement = document.createElement('div');
+      loadingElement.className = 'loading';
+      loadingElement.textContent = "Loading...";
+      chatArea.appendChild(loadingElement);
+      chatArea.scrollTop = chatArea.scrollHeight;
+      return loadingElement;
+    }
+
+    // Send Message Function
+    async function sendMessage() {
+      const message = userInput.value.trim();
+      if (message === "") return;
+
+      // Display User Message
+      const userMessageElement = document.createElement('div');
+      userMessageElement.className = 'message user';
+      userMessageElement.textContent = message;
+      chatArea.appendChild(userMessageElement);
+
+      // Clear Input
+      userInput.value = '';
+
+      // Scroll to Bottom
+      chatArea.scrollTop = chatArea.scrollHeight;
+
+      // Show Typing Indicator
+      const typingElement = showTypingIndicator();
+
+      // Send Message to OpenRouter API
+      try {
+        const response = await fetch(OPENROUTER_API_URL, {
+          method: "POST",
+          headers: {
+            "Authorization": `Bearer ${OPENROUTER_API_KEY}`,
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify({
+            model: "deepseek/deepseek-chat:free",
+            messages: [
+              {
+                role: "user",
+                content: message,
+              },
+            ],
+          }),
+        });
+
+        const data = await response.json();
+        const botResponse = data.choices[0].message.content;
+
+        // Remove Typing Indicator
+        chatArea.removeChild(typingElement);
+
+        // Display Bot Response
+        const botMessageElement = document.createElement('div');
+        botMessageElement.className = 'message bot';
+        botMessageElement.textContent = botResponse;
+        chatArea.appendChild(botMessageElement);
+
+        // Scroll to Bottom
+        chatArea.scrollTop = chatArea.scrollHeight;
+      } catch (error) {
+        console.error("Error fetching response from OpenRouter API:", error);
+
+        // Remove Typing Indicator
+        chatArea.removeChild(typingElement);
+
+        // Display Error Message
+        const errorMessageElement = document.createElement('div');
+        errorMessageElement.className = 'message bot';
+        errorMessageElement.textContent = "Sorry, something went wrong. Please try again.";
+        chatArea.appendChild(errorMessageElement);
+
+        // Scroll to Bottom
+        chatArea.scrollTop = chatArea.scrollHeight;
+      }
+    }
+  </script>
+</body>
+</html>

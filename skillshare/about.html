@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us - SkillShare</title>
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #121212;
+            color: white;
+            text-align: center;
+        }
+        .navbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background: rgba(30, 30, 30, 0.9);
+            padding: 15px 30px;
+            position: sticky;
+            top: 0;
+            width: 100%;
+            z-index: 1000;
+        }
+        .navbar h2 {
+            color: #facc15;
+            margin: 0;
+        }
+        .nav-links {
+            list-style: none;
+            display: flex;
+            gap: 20px;
+        }
+        .nav-links a {
+            color: #fff;
+            text-decoration: none;
+            font-size: 1rem;
+            padding: 8px 15px;
+            border-radius: 5px;
+            transition: 0.3s;
+        }
+        .nav-links a:hover {
+            background: #4ade80;
+            color: black;
+        }
+        .about-container {
+            padding: 60px 20px;
+            background: linear-gradient(135deg, #1e1e1e, #2a2a2a);
+            border-radius: 10px;
+            margin: 40px auto;
+            max-width: 80%;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+        }
+        .about-container h2 {
+            font-size: 2.5rem;
+            color: #facc15;
+            margin-bottom: 15px;
+        }
+        .about-container p {
+            font-size: 1.2rem;
+            color: #ddd;
+            max-width: 70%;
+            margin: auto;
+            line-height: 1.6;
+        }
+        .about-grid {
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            flex-wrap: wrap;
+            margin-top: 40px;
+        }
+        .about-box {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 20px;
+            border-radius: 15px;
+            backdrop-filter: blur(10px);
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+            transition: 0.3s;
+            width: 250px;
+            text-align: center;
+            border: 1px solid #4ade80;
+        }
+        .about-box:hover {
+            transform: translateY(-5px);
+            background: #4ade80;
+            color: black;
+        }
+        .about-box h3 {
+            font-size: 1.5rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="navbar">
+        <h2>SkillShare 🚀</h2>
+        <ul class="nav-links">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="course1.html">Courses</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </div>
+    <div class="about-container">
+        <h2>About Us</h2>
+        <p>Empowering learners worldwide with hands-on projects, structured courses, and expert mentorship.</p>
+        <div class="about-grid">
+            <div class="about-box">
+                <h3>📖 Structured Learning</h3>
+                <p>Step-by-step guidance to master new skills.</p>
+            </div>
+            <div class="about-box">
+                <h3>🔥 Hands-on Projects</h3>
+                <p>Work on real-world projects and gain experience.</p>
+            </div>
+            <div class="about-box">
+                <h3>💡 Expert Mentorship</h3>
+                <p>Learn from the best in the industry.</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

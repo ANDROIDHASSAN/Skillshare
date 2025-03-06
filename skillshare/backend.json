@@ -1,0 +1,408 @@
+[
+    {
+      "videoId": "T55Kb8rrH1g",
+      "title": "Master JavaScript Essentials for Backend Development | Part 1",
+      "mcqs": [
+        "JavaScript me let, const, aur var ka main difference kya hai?",
+        "JavaScript me hoisting ka matlab kya hota hai?"
+      ],
+      "projects": [
+        "Simple CLI Calculator",
+        "Todo List API (JSON File-Based)"
+      ],
+      "tasks": [
+        "Hoisting ka example likho",
+        "Higher-order function likho jo ek function ko as argument accept kare."
+      ]
+    },
+    
+   
+    {
+      "videoId": "OFbSqd54Wwk",
+      "title": "Install Node.js & Learn File System Operations | Backend Development Part 2",
+      "mcqs": [
+        "Node.js ko install karne ke steps kya hai?",
+        "File system module me synchronous aur asynchronous methods ka kya farak hai?"
+      ],
+      "projects": [
+        "File Explorer CLI",
+        "Basic File Logger using Node.js"
+      ],
+      "tasks": [
+        "Node.js ka ek simple server setup karo",
+        "Ek script likho jo file read aur write kar sake."
+      ]
+    },
+    {
+      "videoId": "I3y1XHwBL6w",
+      "title": "NPM Basics & Advanced Features | Backend Development Part 3",
+      "mcqs": [
+        "package.json file ka kya use hai?",
+        "npm global aur local package installation me kya antar hai?"
+      ],
+      "projects": [
+        "CLI tool for package management",
+        "Custom NPM Module Creation"
+      ],
+      "tasks": [
+        "Ek package.json file generate karo",
+        "Ek simple NPM package create aur publish karo."
+      ]
+    },
+    {
+      "videoId": "3CkgSQWwNlk",
+      "title": "Master Express.js, Routing & Middleware | Backend Development Part 4",
+      "mcqs": [
+        "Express.js me middleware kya hota hai?",
+        "Routing ka kya significance hai Express.js me?"
+      ],
+      "projects": [
+        "Basic Blog API using Express.js",
+        "User Authentication API"
+      ],
+      "tasks": [
+        "Ek simple Express.js server setup karo",
+        "Ek API endpoint banao jo JSON data return kare."
+      ]
+    },
+    {
+      "videoId": "mRTG7fdzF6s",
+      "title": "Master EJS, Dynamic Routing & Project Setup | Backend Development Part 6",
+      "mcqs": [
+        "EJS ka use kya hota hai?",
+        "Dynamic routing kaise implement kiya jata hai?"
+      ],
+      "projects": [
+        "Blog Website with EJS Templates",
+        "Dynamic User Profile Pages"
+      ],
+      "tasks": [
+        "EJS file create aur render karo",
+        "Dynamic routes implement karo jo URL parameters handle kare."
+      ]
+    },
+    {
+      "videoId": "HXLDBqs5urw",
+      "title": "Hands-on Practice: Revisiting Key Concepts | Backend Development Part 7",
+      "mcqs": [
+        "Backend development ke key concepts kya hai?",
+        "Node.js aur Express.js kaise interact karte hai?"
+      ],
+      "projects": [
+        "Mini Backend System",
+        "API Development with Express"
+      ],
+      "tasks": [
+        "Ek mini project implement karo jo sab concepts use kare",
+        "Backend best practices follow karne wale endpoints banao."
+      ]
+    },
+    {
+      "videoId": "Mt_6jGHfQyk",
+      "title": "From Theory to Practice: Real-World Applications | Backend Development Part 8",
+      "mcqs": [
+        "Real-world applications me backend ka role kya hai?",
+        "RESTful APIs aur GraphQL me kya difference hai?"
+      ],
+      "projects": [
+        "E-Commerce Backend API",
+        "User Management System"
+      ],
+      "tasks": [
+        "Ek RESTful API design karo",
+        "User authentication aur authorization implement karo."
+      ]
+    },
+    {
+      "videoId": "ZZQcDrRl98w",
+      "title": "Building the Edit Feature | Backend Development Part 9",
+      "mcqs": [
+        "Edit feature backend me kaise implement hoti hai?",
+        "PATCH aur PUT request me kya difference hai?"
+      ],
+      "projects": [
+        "Editable Blog Posts System",
+        "Profile Update Feature"
+      ],
+      "tasks": [
+        "Ek API endpoint banao jo data update kare",
+        "Frontend se backend tak edit feature integrate karo."
+      ]
+    },
+    
+    {
+      "videoId": "PbDXCh4sMIo",
+      "title": "Update feature with EJS & Server-Side Rendering | MongoDB | Part 13 - Backend Development",
+      "mcqs": [
+        "EJS me form submission kaise handle karte hain?",
+        "MongoDB me update operation ka syntax kya hota hai?"
+      ],
+      "projects": [
+        "Blog Editing Feature",
+        "User Profile Update System with EJS"
+      ],
+      "tasks": [
+        "Ek EJS form create karo jo MongoDB database update kare",
+        "Express.js aur MongoDB ka use karke ek edit route banao."
+      ]
+    },
+    {
+      "videoId": "brf7roEutrc",
+      "title": "Authentication & Authorization | JWT Token | MongoDB | Part 15 - Backend Development",
+      "mcqs": [
+        "JWT ka structure kya hota hai?",
+        "Token-based authentication me refresh tokens ka kya role hota hai?"
+      ],
+      "projects": [
+        "Secure Authentication System",
+        "User Role-based Access Control"
+      ],
+      "tasks": [
+        "Ek JWT token generate aur verify karne ka example likho",
+        "Role-based access control implement karo jisme sirf admin users ko kuch routes access mil sake."
+      ]
+    },
+    {
+      "videoId": "g1uL2byQTzo",
+      "title": "Data Association | MongoDB | Part 16 - Backend Development",
+      "mcqs": [
+        "MongoDB me referencing aur embedding me kya antar hai?",
+        "Populate method ka use kya hota hai?"
+      ],
+      "projects": [
+        "User-Post Relationship Management System",
+        "E-commerce Product-Review Association"
+      ],
+      "tasks": [
+        "Ek MongoDB schema define karo jisme referencing aur embedding dono use kiye gaye ho",
+        "Populate method ka example likho jo associated documents fetch kare."
+      ]
+    },
+    {
+      "videoId": "4TFA-vy_fdo",
+      "title": "MongoDB, Mongoose & Database Management | Backend Development Part 10",
+      "mcqs": [
+        "MongoDB me schema design kaise hota hai?",
+        "Mongoose me models ka kya role hota hai?"
+      ],
+      "projects": [
+        "Mongoose-based Inventory System",
+        "Database-driven Blogging Platform"
+      ],
+      "tasks": [
+        "Ek MongoDB schema define karo jo ek collection ke structure ko represent kare",
+        "Mongoose ka use karke ek CRUD API implement karo."
+      ]
+    },
+    {
+      "videoId": "ZMEVI1Y7FtY",
+      "title": "Master CRUD Operations with MongoDB | Backend Development Part 11",
+      "mcqs": [
+        "CRUD operations ka full form kya hota hai?",
+        "MongoDB me document deletion ke kitne tareeke hain?"
+      ],
+      "projects": [
+        "CRUD-based Contact Management System",
+        "Task Tracker with MongoDB"
+      ],
+      "tasks": [
+        "MongoDB me ek CRUD API develop karo jo Express.js use kare",
+        "Ek feature implement karo jo deleted records ko restore kar sake."
+      ]
+    },
+    {
+      "videoId": "DteKTbG2hE0",
+      "title": "CRUD Operations with EJS & Server-Side Rendering | MongoDB | Backend Development Part 12",
+      "mcqs": [
+        "Server-side rendering aur client-side rendering me kya antar hai?",
+        "EJS me looping aur conditional statements kaise likhte hain?"
+      ],
+      "projects": [
+        "Full-stack Blog Application",
+        "Task Management System with EJS"
+      ],
+      "tasks": [
+        "EJS me ek loop ka example likho jo dynamic content show kare",
+        "Ek CRUD system implement karo jo EJS templates use kare."
+      ]
+    },
+    {
+      "videoId": "PbDXCh4sMIo",
+      "title": "Update feature with EJS & Server-Side Rendering | MongoDB | Part 13 - Backend Development",
+      "mcqs": [
+        "EJS me form submission kaise handle karte hain?",
+        "MongoDB me update operation ka syntax kya hota hai?"
+      ],
+      "projects": [
+        "Blog Editing Feature",
+        "User Profile Update System with EJS"
+      ],
+      "tasks": [
+        "Ek EJS form create karo jo MongoDB database update kare",
+        "Express.js aur MongoDB ka use karke ek edit route banao."
+      ]
+    },
+    {
+      "videoId": "19RpMEonSu8",
+      "title": "Authentication & Authorization | Bcrypt | JWT | Part 14 - Backend Development",
+      "mcqs": [
+        "Bcrypt ka use password hashing me kyun hota hai?",
+        "JWT authentication me payload kya hota hai?"
+      ],
+      "projects": [
+        "Secure User Authentication System",
+        "JWT-based Login System"
+      ],
+      "tasks": [
+        "Ek JWT token generate aur verify karne ka example likho",
+        "User authentication ke liye bcrypt ka use karke password hashing implement karo."
+      ]
+    },
+    {
+      "videoId": "CP7xxjuAJ0w",
+      "title": "[🚀Backend Project] Chess.com clone which you will be able to understand. | Sheryians",
+      "mcqs": [
+        "Chess.com jaisa real-time game backend kaise design kiya jata hai?",
+        "WebSockets ka kya role hota hai?"
+      ],
+      "projects": [
+        "Chess.com Clone Backend",
+        "Real-time Game Server"
+      ],
+      "tasks": [
+        "WebSockets ka use karke ek simple real-time game implement karo",
+        "Chess game ka backend structure design karo jo multiplayer support kare."
+      ]
+    },
+    {
+      "videoId": "5lWWOJBWeTA",
+      "title": "Backend Project 1 - Part 5 | Scatch | User Authentication & Functionality | Backend Development",
+      "mcqs": [
+        "User authentication system kaise implement kiya jata hai?",
+        "OAuth aur JWT me kya difference hai?"
+      ],
+      "projects": [
+        "User Authentication System",
+        "OAuth Login Implementation"
+      ],
+      "tasks": [
+        "JWT token authentication setup karo",
+        "OAuth 2.0 authentication integrate karo kisi ek third-party provider ke saath."
+      ]
+    },
+    {
+      "videoId": "up9db_91qEE",
+      "title": "Backend Project 1 - Part 6 | Scatch | Finalizing the Project | Backend Development",
+      "mcqs": [
+        "Deployment ke liye best practices kya hain?",
+        "Continuous Integration aur Continuous Deployment ka kya importance hai?"
+      ],
+      "projects": [
+        "Backend Deployment Pipeline",
+        "CI/CD Implementation for Node.js Project"
+      ],
+      "tasks": [
+        "Ek backend project ko Heroku ya Vercel par deploy karo",
+        "CI/CD pipeline setup karo jo GitHub actions ya Jenkins use kare."
+      ]
+    },
+    {
+      "videoId": "8CAjzElJUiU",
+      "title": "Mini Project 1 | Data Association - MongoDB | Part 17 - Backend Development",
+      "mcqs": [
+        "Data association Mini Project me kaunse models use kiye gaye hain?",
+        "One-to-many relationship kaise implement hoti hai?"
+      ],
+      "projects": [
+        "Mini Project: User & Posts",
+        "Mini Project: Product & Reviews"
+      ],
+      "tasks": [
+        "Ek mini project create karo jo multiple models associate kare",
+        "One-to-many aur many-to-many relationships implement karo."
+      ]
+    },
+    {
+      "videoId": "VR9ua1zVqz0",
+      "title": "Mini Project 1 - Part 2 | Data Association - MongoDB | Part 18 - Backend Development",
+      "mcqs": [
+        "Data Association ke part 2 me kya naya seekhne ko mila?",
+        "Referencing aur Embedding ka practical implementation kaise kiya gaya?"
+      ],
+      "projects": [
+        "User & Posts with Enhanced Association",
+        "Product & Reviews with Additional Features"
+      ],
+      "tasks": [
+        "One-to-many relationship implement karo jo dynamically update ho.",
+        "Data validation aur error handling ka integration karo."
+      ]
+    },
+    {
+      "videoId": "Ebp7dWMGHI",
+      "title": "Mini Project 1 - Part 3 | Data Association - MongoDB | Part 19 - Backend Development",
+      "mcqs": [
+        "Part 3 me data association me kaunse improvements kiye gaye?",
+        "Aggregation pipeline ka kya role hai?"
+      ],
+      "projects": [
+        "Advanced User-Post Management System",
+        "Enhanced Product-Review Association with Aggregation"
+      ],
+      "tasks": [
+        "Aggregation pipeline ka use karke related data fetch karo.",
+        "Indexes aur query optimization implement karo."
+      ]
+    },
+    {
+      "videoId": "n1a2cIITVeQ",
+      "title": "Multer - multipart/form-data | MongoDB | Part 20 - Backend Development",
+      "mcqs": [
+        "Multer kya hai aur iska use kyun hota hai?",
+        "multipart/form-data request handling kaise kiya jata hai?"
+      ],
+      "projects": [
+        "File Upload System with Multer",
+        "Profile Picture Upload Feature"
+      ],
+      "tasks": [
+        "Multer ka setup karo aur ek image upload feature implement karo.",
+        "Uploaded files ko MongoDB GridFS ya local storage me store karo."
+      ]
+    },
+    {
+      "videoId": "SgcDucMCngw",
+      "title": "Multer - Proper Folder Structure | MongoDB | Part 21 - Backend Development",
+      "mcqs": [
+        "Multer ke sath folder structure kaise organize karni chahiye?",
+        "File validation aur security measures kaise implement kiye jate hain?"
+      ],
+      "projects": [
+        "Secure File Upload System",
+        "Multi-User Document Management System"
+      ],
+      "tasks": [
+        "Multer ke sath organized folder structure implement karo.",
+        "File validation aur security enhancements add karo."
+      ]
+    },
+    {
+      "videoId": "yinZI1Es3kk",
+      "title": "Project Announcement | Upcoming launches | MongoDB | Backend Development",
+      "mcqs": [
+        "Upcoming projects aur features kaunse announce kiye gaye?",
+        "Kis naye concept ko next series me cover kiya jayega?"
+      ],
+      "projects": [
+        "Future Roadmap for Backend Development",
+        "Advanced MongoDB Features Exploration"
+      ],
+      "tasks": [
+        "Upcoming projects ke topics aur requirements ko analyze karo.",
+        "Next learning steps aur advanced concepts par research karo."
+      ]
+    }
+    
+  
+  ] 
+  
