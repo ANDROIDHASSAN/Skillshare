@@ -75,4 +75,4 @@ Whatsapp Community to connect with like minded peoples :-
 1) Skillshare :- https://chat.whatsapp.com/BZXhPVkEqbBDbYAFBZkKSJ
 2) Leads :- https://chat.whatsapp.com/KhqmxvYH9pz0wAeh0F1apK
 
-** Git/Github Tutorial For Beginners ** :- https://www.youtube.com/watch?v=Ez8F0nW6S-w
+ Git/Github Tutorial For Beginners :- https://www.youtube.com/watch?v=Ez8F0nW6S-w
