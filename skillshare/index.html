@@ -374,8 +374,8 @@
     </div>
 
     <button id="chat-button">Chat</button>
-    <button id="voiceAiButton">Voice Ai</button>
-
+    <button id="voiceAiButton" onclick="window.open('https://vapi.ai/?demo=true&shareKey=be3a0ec4-2bc7-45cf-8e6a-b1355a736864&assistantId=d94f411f-5055-43de-9660-5aa61927ddcc ', '_blank')">  Voice Ai</button>
+    <!-- integerated Vapi AI by Rahul Das -->
   <!-- Chat Window -->
   <div id="chat-window">
     <div id="chat-header">
@@ -385,7 +385,7 @@
     <div id="chat-area"></div>
     <div id="input-area">
       <input type="text" id="user-input" placeholder="Type a message...">
-      <button id="send-button">Send</button>
+      <button id="send-button" >Send</button>
     </div>
   </div>
 
@@ -428,7 +428,9 @@
         sendMessage();
       }
     });
-
+    <!-- voiceAiButton.addEventListener('click',()=>{
+      "https://vapi.ai/?demo=true&shareKey=be3a0ec4-2bc7-45cf-8e6a-b1355a736864&assistantId=d94f411f-5055-43de-9660-5aa61927ddcc"
+    }) -->
     // Show Typing Indicator
     function showTypingIndicator() {
       const typingElement = document.createElement('div');
